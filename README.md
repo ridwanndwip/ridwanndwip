@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="50" height="50"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/sass.png" width="50" height="50"/> </a> 
+</p>
