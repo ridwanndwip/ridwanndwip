@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![](https://ridwanndwip.netlify.app/static/media/me.81362c44.jpg)
-
 ### My name is Ridwan I'm a newbie front end developer from Indonesia 🌝 I describe myself as a front end developer since I love coding and web design. The main areas of my expertise are HTML5, CSS3, And Javascript, but I'm intermediate in JS library such a ReactJS and VueJS.😞 In between mywork, I would like to create an open source projects it help me to learn a ton of new stuff. And I write anything about coding and any tutorial at my blog. I hope you enjoy and thank you for visiting.🧡
 
 #
