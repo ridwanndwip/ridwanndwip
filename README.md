@@ -33,13 +33,13 @@
 
 <table>
    <td width="50%" valign="top">
-    <h3 align="center"> GitHub Status<h3>
+    <h1 align="center"> GitHub Status</h1>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Ridwanndwip&theme=github_dark&column=7&no-frame=true" />
     </p>
    </td>
    <td width="50%" valign="top">
-    <h3 align="center"> Most used languages</h3>
+    <h1 align="center"> Most used languages</h1>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwanndwip&theme=github_dark&column=7&no-frame=true"/>
      </p>
