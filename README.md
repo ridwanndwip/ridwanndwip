@@ -6,6 +6,12 @@
 
 ### Connect with me :
 <p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/355/355975.png" width="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" width="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/1377/premium/1377243.png?token=exp=1633492302~hmac=3dc89eba5a4c96cbe7ad603de9aa92ae" width="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1633492343~hmac=cd96fe91aa820e52e87af11b60998cfb" width="40"/> </a>
+</p>
 
 </p>
 
@@ -23,8 +29,6 @@
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwanndwip)](https://github.com/anuraghazra/github-readme-stats)
-
-#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwanndwip&show_icons=true)  
 
