@@ -4,7 +4,7 @@
 
 #
 
-<table>
+<table align="center">
    <td width="50%" valign="top">
     <h1 align="center"> Connect with me :</h1>
     <p align="center">
