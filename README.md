@@ -5,17 +5,16 @@
 #
 
 <table>
-   <td width="20%" valign="top">
+   <td width="50%" valign="top">
     <h1 align="center"> Connect with me :</h1>
     <p align="center">
-          <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/355/355975.png" width="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" width="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/1377/premium/1377243.png?token=exp=1633492302~hmac=3dc89eba5a4c96cbe7ad603de9aa92ae" width="50"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1633492343~hmac=cd96fe91aa820e52e87af11b60998cfb" width="50"/> </a>
+    <a href="https://www.instagram.com/ridwanndwip/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/355/355975.png" width="50"/> </a>
+    <a href="https://www.linkedin.com/in/ridwanndwip/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/179/179330.png" width="50"/> </a>
+    <a href="#" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/1377/premium/1377243.png?token=exp=1633492302~hmac=3dc89eba5a4c96cbe7ad603de9aa92ae" width="50"/> </a>
+    <a href="https://ridwanndwip.medium.com/" target="_blank"> <img src="https://img-premium.flaticon.com/png/512/3670/premium/3670068.png?token=exp=1633492343~hmac=cd96fe91aa820e52e87af11b60998cfb" width="50"/> </a>
     </p>
    </td>
-   <td width="20%" valign="top">
+   <td width="50%" valign="top">
     <h1 align="center"> Languages and  Tools :</h1>
      <p align="center">
       <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -33,13 +32,13 @@
 
 <table>
    <td width="50%" valign="top">
-    <h1 align="center"> GitHub Status</h1>
+    <h3 align="center"> GitHub Status</h3>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Ridwanndwip&theme=github_dark&column=7&no-frame=true" />
     </p>
    </td>
    <td width="50%" valign="top">
-    <h1 align="center"> Most used languages</h1>
+    <h3 align="center"> Most used languages</h3>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwanndwip&theme=github_dark&column=7&no-frame=true"/>
      </p>
