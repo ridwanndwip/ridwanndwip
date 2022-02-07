@@ -1,7 +1,5 @@
 # Hi there, I'm [Ridwan][website] 👋
 
-### My name is Ridwan I'm a newbie front end developer from Indonesia 🌝 I describe myself as a front end developer since I love coding and web design. The main areas of my expertise are HTML5, CSS3, And Javascript, but I'm intermediate in JS library such a ReactJS and VueJS.😞 
-
 #
 
 <table align="center">
